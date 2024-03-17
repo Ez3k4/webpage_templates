@@ -1,0 +1,1 @@
+Each folder should contain all files for a specified template
