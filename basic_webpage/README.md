@@ -1,1 +1,1 @@
-Each folder should contain all files for a specified template
+this is all you need to setup a very basic responsive webpage with header, body and footer 
