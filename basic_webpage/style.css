@@ -25,6 +25,14 @@ body {
     background-color: #6420AA;
 }
 
+footer {
+    background-color: #FF7ED4;
+    margin-top: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+
 .container {
     max-width: 1000px;
     width: 95%;
@@ -40,12 +48,6 @@ body {
     text-align: center;
 }
 
-.footer {
-    background-color: #FF7ED4;
-    margin-top: 1em;
-    padding: 1em;
-    text-align: center;
-}
 
 @media (min-width: 400px) and (orientation: landscape) {
     .banner {
