@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Freigem2024</title>
+    <link>http://localhost:1313/team/</link>
+    <description>Recent content in Team on Freigem2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 16:11:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jan</title>
+      <link>http://localhost:1313/team/jan/</link>
+      <pubDate>Sun, 31 Mar 2024 16:11:11 +0200</pubDate>
+      <guid>http://localhost:1313/team/jan/</guid>
+      <description> jan </description>
+    </item>
+    <item>
+      <title>Ivana</title>
+      <link>http://localhost:1313/team/ivana/</link>
+      <pubDate>Sun, 31 Mar 2024 16:11:06 +0200</pubDate>
+      <guid>http://localhost:1313/team/ivana/</guid>
+      <description> ivana </description>
+    </item>
+    <item>
+      <title>Jonas</title>
+      <link>http://localhost:1313/team/jonas/</link>
+      <pubDate>Sun, 31 Mar 2024 16:10:57 +0200</pubDate>
+      <guid>http://localhost:1313/team/jonas/</guid>
+      <description> jonas </description>
+    </item>
+    <item>
+      <title>Isabelle</title>
+      <link>http://localhost:1313/team/isabelle/</link>
+      <pubDate>Sun, 31 Mar 2024 16:10:27 +0200</pubDate>
+      <guid>http://localhost:1313/team/isabelle/</guid>
+      <description> isabelle </description>
+    </item>
+    <item>
+      <title>Emil</title>
+      <link>http://localhost:1313/team/emil/</link>
+      <pubDate>Sat, 30 Mar 2024 14:40:25 +0100</pubDate>
+      <guid>http://localhost:1313/team/emil/</guid>
+      <description>some text about me&#xA;Emil </description>
+    </item>
+  </channel>
+</rss>
