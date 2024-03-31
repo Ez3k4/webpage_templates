@@ -1,0 +1,22 @@
+baseURL = 'https://Freigem2024.org/'
+languageCode = 'en-us'
+title = 'Freigem2024'
+theme = 'ananke'
+
+[[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 3
+
+[[menu.main]]
+    name = "Project"
+    url = "/project/"
+    weight = 4
+    
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[params]
+teamFeaturedImage = "/images/team2.jpg"
