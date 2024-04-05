@@ -6,8 +6,15 @@
     <description>Recent content in Freigem 2024 on Freigem2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 16:11:11 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 19:32:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/tachyon-shenenigans/test/</link>
+      <pubDate>Fri, 05 Apr 2024 19:32:20 +0200</pubDate>
+      <guid>http://localhost:1313/tachyon-shenenigans/test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Jan</title>
       <link>http://localhost:1313/team/jan/</link>
@@ -34,7 +41,7 @@
       <link>http://localhost:1313/team/isabelle/</link>
       <pubDate>Sun, 31 Mar 2024 16:10:27 +0200</pubDate>
       <guid>http://localhost:1313/team/isabelle/</guid>
-      <description> isabelle </description>
+      <description>Hallo ich bin isa isabelle </description>
     </item>
     <item>
       <title>Emil</title>

@@ -18,5 +18,11 @@ theme = 'ananke'
     url = "/contact/"
     weight = 5
 
+[[menu.main]]
+    name = "Tachyon Shenenigans"
+    url = "/tachyon shenenigans/"
+    weight = 6
+
 [params]
 teamFeaturedImage = "/images/team2.jpg"
+
