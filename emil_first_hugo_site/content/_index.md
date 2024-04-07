@@ -25,3 +25,4 @@ Add a background image for the contact page.
 Add contact formular to the contact page. 
 
 Link to Instagram in the Footer and Header. 
+###### https://icons8.com/icons/set/instagram-transparent I got the svg code from here and copied the path into site-footer.html
