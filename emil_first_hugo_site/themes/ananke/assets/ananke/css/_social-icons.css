@@ -1,7 +1,7 @@
 .ananke-socials a{
   display: inline-block;
   vertical-align: middle;
-  color: #BABABA;
+  color: #ffffff;
   fill: currentColor;
 }
 .ananke-socials a .icon svg{
@@ -9,7 +9,7 @@
   height: 32px;
 }
 .ananke-socials a:hover {
-  color: rgb(107, 114, 128);
+  color:#F51889;
 }
 .new-window {
   opacity: 0;
