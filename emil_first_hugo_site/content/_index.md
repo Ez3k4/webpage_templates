@@ -12,3 +12,16 @@ text_color: 'purple'
 
 changed the color by adding new param in config.toml with variable text_color that i found in layouts main \n
 problem all text in this div has now changed color
+
+# Tasks
+Add a team member with a picture.
+
+Change default color of the footer and change it to another color on one page.
+
+Add a "Human practices" page (also in the nav-bar).
+
+Add a background image for the contact page.
+
+Add contact formular to the contact page. 
+
+Link to Instagram in the Footer and Header. 
