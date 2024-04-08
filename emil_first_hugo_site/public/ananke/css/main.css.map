@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Emil/Coding/webpage_templates/emil_first_hugo_site",
+	"sourceRoot": "C:/Users/zwerg/Documents/Biologie/Master/iGEM/Wiki/webpage_templates/emil_first_hugo_site",
 	"sources": [
 		"ananke/css/main.css"
 	],
