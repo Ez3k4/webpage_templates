@@ -6,8 +6,15 @@
     <description>Recent content in Team on Freigem2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 15:25:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 16:57:55 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liv</title>
+      <link>http://localhost:1313/team/liv/</link>
+      <pubDate>Mon, 08 Apr 2024 16:57:55 +0200</pubDate>
+      <guid>http://localhost:1313/team/liv/</guid>
+      <description>Liv Liv </description>
+    </item>
     <item>
       <title>Mathilda</title>
       <link>http://localhost:1313/team/mathilda/</link>
@@ -48,7 +55,7 @@
       <link>http://localhost:1313/team/emil/</link>
       <pubDate>Sat, 30 Mar 2024 14:40:25 +0100</pubDate>
       <guid>http://localhost:1313/team/emil/</guid>
-      <description>some text about me&#xA;Emil </description>
+      <description>some text about me some more&#xA;Emil </description>
     </item>
   </channel>
 </rss>
