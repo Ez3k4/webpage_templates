@@ -6,8 +6,15 @@
     <description>Recent content in Team on Freigem2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 18:05:55 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 13:42:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexej</title>
+      <link>http://localhost:1313/team/alexej/</link>
+      <pubDate>Tue, 09 Apr 2024 13:42:54 +0200</pubDate>
+      <guid>http://localhost:1313/team/alexej/</guid>
+      <description>Hi I&amp;rsquo;m Alexej.</description>
+    </item>
     <item>
       <title>Marina</title>
       <link>http://localhost:1313/team/marina/</link>
