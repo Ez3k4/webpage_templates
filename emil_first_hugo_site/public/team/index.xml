@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Freigem2024</title>
+    <link>http://localhost:1313/team/</link>
+    <description>Recent content in Team on Freigem2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 13:42:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexej</title>
+      <link>http://localhost:1313/team/alexej/</link>
+      <pubDate>Tue, 09 Apr 2024 13:42:54 +0200</pubDate>
+      <guid>http://localhost:1313/team/alexej/</guid>
+      <description>Hi I&amp;rsquo;m Alexej. Alexej </description>
+    </item>
+    <item>
+      <title>Niels</title>
+      <link>http://localhost:1313/team/niels/</link>
+      <pubDate>Mon, 08 Apr 2024 18:21:28 +0200</pubDate>
+      <guid>http://localhost:1313/team/niels/</guid>
+      <description> Niels </description>
+    </item>
+    <item>
+      <title>Marina</title>
+      <link>http://localhost:1313/team/marina/</link>
+      <pubDate>Mon, 08 Apr 2024 18:05:55 +0200</pubDate>
+      <guid>http://localhost:1313/team/marina/</guid>
+      <description>hallo marina </description>
+    </item>
+    <item>
+      <title>Liv</title>
+      <link>http://localhost:1313/team/liv/</link>
+      <pubDate>Mon, 08 Apr 2024 16:57:55 +0200</pubDate>
+      <guid>http://localhost:1313/team/liv/</guid>
+      <description>Liv Liv Liv </description>
+    </item>
+    <item>
+      <title>Mathilda</title>
+      <link>http://localhost:1313/team/mathilda/</link>
+      <pubDate>Sun, 07 Apr 2024 15:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/team/mathilda/</guid>
+      <description> mathilda </description>
+    </item>
+    <item>
+      <title>Jan</title>
+      <link>http://localhost:1313/team/jan/</link>
+      <pubDate>Sun, 31 Mar 2024 16:11:11 +0200</pubDate>
+      <guid>http://localhost:1313/team/jan/</guid>
+      <description> jan </description>
+    </item>
+    <item>
+      <title>Ivana</title>
+      <link>http://localhost:1313/team/ivana/</link>
+      <pubDate>Sun, 31 Mar 2024 16:11:06 +0200</pubDate>
+      <guid>http://localhost:1313/team/ivana/</guid>
+      <description> ivana </description>
+    </item>
+    <item>
+      <title>Jonas</title>
+      <link>http://localhost:1313/team/jonas/</link>
+      <pubDate>Sun, 31 Mar 2024 16:10:57 +0200</pubDate>
+      <guid>http://localhost:1313/team/jonas/</guid>
+      <description> jonas </description>
+    </item>
+    <item>
+      <title>Isabelle</title>
+      <link>http://localhost:1313/team/isabelle/</link>
+      <pubDate>Sun, 31 Mar 2024 16:10:27 +0200</pubDate>
+      <guid>http://localhost:1313/team/isabelle/</guid>
+      <description>Hallo ich bin isa isabelle </description>
+    </item>
+    <item>
+      <title>Emil</title>
+      <link>http://localhost:1313/team/emil/</link>
+      <pubDate>Sat, 30 Mar 2024 14:40:25 +0100</pubDate>
+      <guid>http://localhost:1313/team/emil/</guid>
+      <description>some text about me some more&#xA;Emil </description>
+    </item>
+  </channel>
+</rss>
