@@ -5,7 +5,7 @@ draft: true
 description: "Synbio may shave the world."
 theme_version: '2.8.2'
 featured_image: '/images/space_pic.jpg'
-text_color: 'purple'
+text_color: 'green'
 ---
 
 # Test Emil Isa
